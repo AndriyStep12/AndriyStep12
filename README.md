@@ -10,7 +10,7 @@
         <br>
     </div>
     <div class="about">
-        <p>Mainly about me: I am 14 years old front-end developer. My career started almost 4 years ago. And from that
+        <p>Mainly about me: I am 16 years old front-end developer. My career started almost 6 years ago. And from that
             moment I wanted to be profecional programer.</p>
     </div>
     <div class="knowledge">
